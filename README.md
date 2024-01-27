@@ -12,7 +12,7 @@
     <img alt="solo" src="https://img.shields.io/badge/solo-yellow" />
     <img alt="estimated time" src="https://img.shields.io/badge/time%20spent-40%20hours-blue" />
     <img alt="XP earned" src="https://img.shields.io/badge/XP%20earned-577-orange" />
-`Born2beroot` is a Hive Helsinki project focused on setting up a Linux virtual machine and performing various system administration tasks.</p>
+</p>
 
 ## 🖥️ About The Project
 
