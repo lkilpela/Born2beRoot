@@ -62,7 +62,7 @@ The `Born2beroot` project was evaluated based on the following criteria:
 
 ### 🧑‍💻 Peer Evaluations (3/3)
 
-Here are some of the comments received during the peer evaluation of the `so_long` project:
+Here are some of the comments received during the peer evaluation of the `Born2beRoot` project:
 
 > **Peer 1**: "Everything works and good explanations for everything. Always polite also :) Good luck"
 
