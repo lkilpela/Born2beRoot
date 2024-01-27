@@ -49,4 +49,4 @@ This project was completed as a **solo project**. It provided an opportunity to 
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourusername/Born2BeRoot/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/lkilpela/Born2BeRoot/blob/main/LICENSE) file for details.
