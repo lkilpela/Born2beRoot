@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	<b><i>Establish your first virtual machine for sysadmin tasks.</i></b><br>
+	<b><i>Establish your first virtual machine for sysadmin tasks</i></b><br>
 </p>
 
 <p align="center">
