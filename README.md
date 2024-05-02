@@ -1,5 +1,5 @@
 <h1 align="center">
-	🖥️ BORN2BEROOT
+	<img src="https://github.com/lkilpela/42-project-badges/blob/main/badges/born2beroote.png" />
 </h1>
 
 <p align="center">
